@@ -1,5 +1,6 @@
 # semester-1-scripts
+My semester 1 work: a port checker script and Linux command notes.
 
-This repo has my semester 1 scripts and notes.
-Edited on GitHub website.
-
+- port_check.py - checks if TCP ports are open
+- linux_commands.md - my Linux command notes
+- .gitignore - keeps secrets and .pcap files out of the repo
